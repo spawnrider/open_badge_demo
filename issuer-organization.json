@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "http://spawnrider.github.io/open_badge_demo/issuer-organization.json",
+    "type": "Issuer",
+    "name": "Capgemini",
+    "url": "https://capgemini.com"
+}
