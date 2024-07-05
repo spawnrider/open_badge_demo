@@ -1,0 +1,12 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://spawnrider.github.io/open_badge_demo/capgemini-software-engineer-l3.json",
+    "type": "BadgeClass",
+    "name": "Software Engineer Level 3",
+    "description": "L3 Software Engineer at Capgemini",
+    "image": "https://spawnrider.github.io/open_badge_demo/cg_se_l3.png",
+    "criteria": "https://www.capgemini.com/careers/career-paths/professions/software-engineering/",
+    "tags": ["software engineer", "professional"],
+    "alignment": [ ],
+    "issuer": "http://spawnrider.github.io/open_badge_demo/issuer-organization.json"
+}
